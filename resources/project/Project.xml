@@ -132,6 +132,13 @@
                     </Category>
                 </Info>
             </File>
+            <File Location="testRock.m">
+                <Info>
+                    <Category UUID="FileClassCategory">
+                        <Label UUID="design"/>
+                    </Category>
+                </Info>
+            </File>
         </File>
         <File Location="code">
             <Info/>
